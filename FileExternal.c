@@ -20,3 +20,5 @@ char ReadFile(char *GOL){
     //outputnya array gol!
 
 }
+
+//omaygat halu san
